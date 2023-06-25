@@ -10,12 +10,12 @@ Desc:
 
 
 Prerequisite apps installed:
-apache maven (set the PATH in environment variable)
-Java JDK 1.8 (set the PATH in environment variable)
+- apache maven (set the PATH in environment variable)
+- Java JDK 1.8 (set the PATH in environment variable)
 
 
 How to run:
-- Clone/download this code
+- Clone or download this code
 - Extract in C:\
 - Replace chromedriver (In directory 'driver') with your current version
 - Replace path in src\test\java\extentReports\Configuration.properties (path for export the report result)
